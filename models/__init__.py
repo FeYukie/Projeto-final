@@ -1,0 +1,1 @@
+from .Tarefa import * #nome do arquivo 

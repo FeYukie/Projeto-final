@@ -1,0 +1,1 @@
+from .tarefaDao import * #nome do arquivo 
